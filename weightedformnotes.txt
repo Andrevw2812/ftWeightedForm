@@ -1,0 +1,11 @@
+# Based on Video Tutorial: https://www.youtube.com/watch?v=tErHX3TT3iI
+
+Objectives
+How to price a match using weighted form
+
+How to compile odds:
+- Recent form of teams involved
+- 8 previous matches (3, 5, 8 and 10)
+- League games only
+- Home and Away Games (maybe separate into H and A and H&A)
+
